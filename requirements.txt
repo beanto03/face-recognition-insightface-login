@@ -7,11 +7,12 @@ streamlit
 streamlit-webrtc
 insightface
 onnxruntime
+plotly
 streamlit-authenticator
 streamlit-custom-notification-box
 streamlit-modal
 st-pages
-cmake  
-plotly
-
-          
+matplotlib                                    
+protobuf                  
+plotly-express
+python3-tk
